@@ -5,21 +5,7 @@ Featuring a course marketplace, AI-driven mental health support, resume tools, s
 
 ---
 
-## 📌 Table of Contents
 
-* [About](#about)
-* [Tech Stack](#tech-stack)
-* [System Architecture](#system-architecture)
-* [Execution Roadmap](#execution-roadmap)
-* [Modules](#modules)
-* [Frontend Architecture & UX Flow](#frontend-architecture--ux-flow)
-* [Deployment Guide](#deployment-guide)
-* [Security & Compliance](#security--compliance)
-* [Future Enhancements](#future-enhancements)
-* [Contributing](#contributing)
-* [License](#license)
-
----
 
 ## 📖 About
 
@@ -58,43 +44,8 @@ EduNex empowers learners and instructors via a full-stack AI-powered platform th
 
 ---
 
-## 🧱 Execution Roadmap
 
-### ✅ Phase 1: Discovery & Research
 
-| Task            | Outcome              | Owner     | Metrics            |
-| --------------- | -------------------- | --------- | ------------------ |
-| Market Research | Udemy/GFG comparison | PM, BA    | Gap Report         |
-| User Interviews | Pain points          | UX        | 20+ insights       |
-| Feasibility     | SDK readiness        | Architect | Feasibility matrix |
-| GDPR Study      | Compliance plan      | Legal     | Checklist passed   |
-
-### 🧱 Phase 2: Architecture & System Design
-
-| Task                 | Outcome                 | Owner        | Metrics            |
-| -------------------- | ----------------------- | ------------ | ------------------ |
-| Microservices Design | Service diagrams        | Architect    | Decoupling score   |
-| API Spec (Swagger)   | 100% coverage           | Backend Lead | ✔️ API test passes |
-| DB Models            | NoSQL Schema            | DB Architect | Indexed ERD        |
-| CI/CD Infra          | GitHub Actions + Docker | DevOps       | < 5 min deploys    |
-
-### 🚧 Phase 3: MVP Development
-
-Core Modules:
-
-* Auth (JWT/OAuth)
-* Course Marketplace
-* Dashboards
-* Resume AI Reviewer
-* Face Recognition Attendance
-
-| Task          | Outcome             | Owner       | Metrics       |
-| ------------- | ------------------- | ----------- | ------------- |
-| Auth & Roles  | Signup/Login flow   | Dev Team    | 95% test pass |
-| Resume Parser | Skills, Keywords    | AI Engineer | 80%+ accuracy |
-| RN Mobile App | Android + iOS build | Mobile Lead | Score > 85    |
-
-### 🤖 Phase 4: AI & Advanced Features
 
 Features:
 
@@ -117,7 +68,7 @@ Features:
 | GDPR Compliance | Consent, export/delete | Security Team | No leaks       |
 | AI Bias Testing | Low hallucination      | Researcher    | <5% drift      |
 
-### 🚀 Phase 6: Launch
+### 🚀  Launch
 
 | Task               | Outcome               | Owner        | Metrics      |
 | ------------------ | --------------------- | ------------ | ------------ |
@@ -125,8 +76,7 @@ Features:
 | Partner Onboarding | 3 Institutions        | Biz Dev      | ✔️ Contracts |
 | Feedback Loop      | Realtime improvements | Product Team | <48h TAT     |
 
-### 📈 Phase 7: Scaling & Optimization
-
+### 📈
 | Task                 | Outcome       | Owner      | Metrics         |
 | -------------------- | ------------- | ---------- | --------------- |
 | K8s Scaling          | 100K users    | DevOps     | 99.9% uptime    |
