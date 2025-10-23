@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'EduNext: Next-Gen OnlineLearningEcosystem',
-  description: 'Created by Rishi',
+  description: 'Created by Rishi Rai',
 }
 
 export default function RootLayout({
